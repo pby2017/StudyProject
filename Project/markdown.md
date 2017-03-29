@@ -43,3 +43,8 @@
   #c
  #c
 #c
+
+<naver.com>
+*hi*
+**hi**
+--zz--
