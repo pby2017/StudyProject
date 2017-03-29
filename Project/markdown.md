@@ -49,5 +49,5 @@
 **hi**
 --zz--
 ~~ee~~
-[BAAAAAAAM](naver.com"ggggggggggg")
-![컴피털](http://nv.veta.naver.com/fxclick?eu=EU10000120&ac=7509135&src=3089196&br=2463942&evtcd=P901&x_ti=843&tb=&rk=WNuaZQpizTkAAHV6PgUAAAI5&eltts=FmGhTdYpe79%2F%2BncyXok1yw%3D%3D&lu=)
+[BAAAAAAAM](http://www.naver.com/"ggggggggggg")
+![컴피털](http://nv2.tveta.naver.net/libs/1159/1159195/20170324160838-1F7YvsUB.jpg)
