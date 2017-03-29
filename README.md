@@ -1,3 +1,16 @@
-# StudyProject
+﻿오후 7:46 2017-03-29
 
-EEEEEEEEEEEEEEEEEEEEEEEEEEEHHHHHHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!한글쓰
+브랜치, 커밋, 승인
+
+소스트리 설치.
+
+클론 주소 복사
+소스트리 복제/생성
+소스 경로/URL 에 붙여넣기
+목적지 경로 : 폴더 하나 새로 만들어서 선택해주고
+클론 버튼 클릭
+
+README 파일 메모장으로 수정하고
+소스트리에서 커밋한다음에
+Push 했더니
+깃허브 사이트에서 수정되어있었음.
