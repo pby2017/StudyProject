@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491143209 source:d:\codeblocks\project\objectdv\main.cpp
+	"Student.h"
+	<iostream>
+
+1491143391 d:\codeblocks\project\objectdv\student.h
+
+1491140793 d:\codeblocks\project\objectdv\studinfo.h
+	"Student.h"
+
+1491142538 source:d:\codeblocks\project\objectdv\student.cpp
+	"Student.h"
+	<iostream>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1491150998 source:d:\codeblocks\project\inputrev\main.cpp
+	"Rvs.h"
+	<iostream>
+	<string>
+
+1491150843 d:\codeblocks\project\inputrev\rvs.h
+	<iostream>
+	<string>
+
+1491150975 source:d:\codeblocks\project\inputrev\rvs.cpp
+	"Rvs.h"
+	<iostream>
+	<string>
+
+1491150975 source:d:\codeblocks\project\2_inputrev\rvs.cpp
+	"Rvs.h"
+	<iostream>
+	<string>
+
+1491150843 d:\codeblocks\project\2_inputrev\rvs.h
+	<iostream>
+	<string>
+
+1491151277 source:d:\codeblocks\project\2_inputrev\main.cpp
+	"Rvs.h"
+	<iostream>
+	<string>
+
