@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* singletonreview StaticBlockInitalization, Park ByungYong, qkrquddyd94@naver.com, 17.0?.?? */
 
 package singletonreview;
@@ -27,3 +28,34 @@ public class StaticBlockInitalization {
 	
 	
 }
+=======
+/* singletonreview StaticBlockInitalization, Park ByungYong, qkrquddyd94@naver.com, 17.0?.?? */
+
+package singletonreview;
+
+public class StaticBlockInitalization {
+
+	private static StaticBlockInitalization instance;
+	private StaticBlockInitalization () {}
+
+	static {
+		try {
+			System.out.println("instance create..");
+			instance = new StaticBlockInitalization();
+		} catch (Exception e) {
+			throw new RuntimeException("Exception creating StaticBlockInitalization instance.");
+		}
+	}
+	
+	public static StaticBlockInitalization getInstance () {
+		return instance;
+	}
+	
+	public void print () {
+		System.out.println("It's print() method in StaticBlockInitalization instance.");
+		System.out.println("instance hashCode > " + instance.hashCode());
+	}
+	
+	
+}
+>>>>>>> 1b7d526d34cd244b75682973332a8aac52f61cf5
