@@ -9,7 +9,7 @@ public class Customer {
 	private static int mypay = 0;
 	private static Menu showmenu = new Menu();
 	private static Barista ordercoffee = new Barista();
-	private Scanner choice = new Scanner(System.in);;
+	private Scanner choice = new Scanner(System.in);
 	
 	public Customer()
 	{
@@ -41,6 +41,7 @@ public class Customer {
 				System.out.println("Bye");
 				break;
 			}
+			
 		}
 	}
 	
